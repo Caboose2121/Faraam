@@ -1,0 +1,57 @@
+# Blender3D MTL File: faraam10.blend
+# Material Count: 5
+newmtl Tex_0019_0.dds.002_Gauntlet.dds
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Gauntlet.dds
+
+
+newmtl Tex_0009_0.dds.002_Helmet.dds
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Helmet.dds
+
+
+newmtl Tex_0026_0.dds_Greaves.dds
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Greaves.dds
+
+
+newmtl Tex_0013_0.dds_Cuirass2.dds
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Cuirass2.dds
+
+
+newmtl Tex_0012_0.dds_Cuirass1.dds
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Cuirass1.dds
+
+
